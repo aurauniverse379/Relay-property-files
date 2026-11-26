@@ -5,7 +5,7 @@
 
 #New
 #bootstrap.servers=192.168.1.115:9092,192.168.1.116:9092,192.168.1.117:9092
-bootstrap.servers=10.139.244.232:30091
+bootstrap.servers=192.168.122.227:9092
 
 
 acks=1
